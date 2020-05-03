@@ -1,9 +1,4 @@
-## Steps to create workspace
-ng new my-workspace --createApplication="false"
-cd my-workspace
-ng generate application my-first-app
-
-# MyWorkspace
+# MyWorkspaceforlibrary
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.24.
 
